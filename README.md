@@ -2,7 +2,7 @@
 
 meu  nome é eduarda oliveira
 
-- estou estudando na alura 
+- estou estudando na [alura](https://www.alura.com.br)
 - estou me desenvolvendo na liguagem JavaScript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
