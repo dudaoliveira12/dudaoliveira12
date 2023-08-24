@@ -1,16 +1,19 @@
-### Hi there 👋
+### boas vindas ao meu perfil 🖤
 
-<!--
-**dudaoliveira12/dudaoliveira12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu  nome é eduarda oliveira
 
-Here are some ideas to get you started:
+- estou estudando na alura 
+- estou me desenvolvendo na liguagem JavaScript
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce pode entrar em contato comigo📧
+
+oliveira.martins.maria@escola.pr.gov.br
+
+@dudaah-oliveira
+
+
+![image](https://github.com/dudaoliveira12/dudaoliveira12/assets/128715347/40bca57a-f78b-4e10-a347-d8264ae34513)
+
+
+
